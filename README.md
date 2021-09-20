@@ -1,4 +1,4 @@
-to run kafka alone in local:
+# to run kafka alone in local:
 
 step 1
 Start the zookeeper server with  properties
