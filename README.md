@@ -2,9 +2,11 @@
 
 step 1
 Start the zookeeper server with  properties
+C:\kafka\bin\windows>zookeeper-server-start.bat "C:\kafka\config\zookeeper.properties"
 
 step 2
 start the kafka server with properties
+C:\kafka\bin\windows>kafka-server-start.bat "C:\kafka\config\server.properties"
 
 step 3
 create topic for ver 2.1
